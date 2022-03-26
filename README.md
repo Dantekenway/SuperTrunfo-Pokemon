@@ -11,7 +11,7 @@ Hello, here you can check out a project of a card game, using the Pokemon theme.
 <li>Compare with the opponent's card;</li>
 <li>See if you won, lost or if the game was a draw.</li></h3>
 
-<h1>Demonstrantion:</h1>
+<h1>Demonstration:</h1>
 
 ![Pokemon (1)](https://user-images.githubusercontent.com/98707071/160252505-70bcf6cd-07e6-4650-992c-094726694ddf.gif)
 <h2> In this case, we select the "attack" attribute and compare it to</br> the "attack" attribute of the opponent's card.</h2> 
